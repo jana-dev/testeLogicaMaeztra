@@ -1,12 +1,7 @@
 
 # Desafio Maeztra
-Olá candidato,
-Este teste se divide em duas etapas, a primeira é um teste lógico onde iremos analisar a sua forma de pensar e como você lida com problemas abstratos. Os códigos dessa etapa devem ser feitos em Javascript, e não se esqueça de documentar todo o processo de cada resposta.
 
-Para iniciar o teste você pode clonar o repositório, e no prazo de dois dias enviar os arquivos em formato .rar/.zip (pode hospedar na nuvem e enviar o link, enviar por anexo etc) para o email queroser@maeztra.com com o assunto **Processo Seletivo Maeztra**, assim como o link para o github pages (mais informações no tópico layout).
-
-## Teste lógico
-Dentro do repositório existem cinco arquivos já nomeados para você realizar os seus algoritmos.
+## Respostas do Teste lógico
 
 ***1 - Crie uma função que receba um valor INTEIRO positivo, e verifique se os DÍGITOS estão em ordenação sequencial CRESCENTE ou DECRESCENTE. Pode considerar dígitos iguais como sequenciais (Variação de um dígito para o outro deve ser 1 ou menor)***
 
@@ -53,17 +48,3 @@ Espaços não farão parte das strings de teste
 > Input `[[1960,2005],[1945,2008],[1938,1999],...]`
 
 ***5 - Um grupo de amigos será colocado lado a lado para tirar uma foto. De quantos modos distintos os amigos podem se organizar para tirar a foto? Desenvolva uma função que receba um número de pessoas (valor inteiro) e retorne quantas possibilidades de organização existem para que o fotografo saiba o número de modos distintos que esse grupo e outros grupos possam se organizar.***
-
-## Layout
-Essa é a segunda etapa do teste onde iremos analisar o ~~seu perfeccionismo~~ perfect pixel e de como você constrói os seus layouts.
-
-Requisitos:
-- O layout que você vai utilizar é este: [Layout Figma](https://www.figma.com/file/3RqPfS5PW9whbQNCTTaoqA/%5B2020-09%5D-MZ---Layout-Teste-de-vagas-para-time-de-Devs). **Atenção:** Para poder visualizar corretamente o figma, faça login na ferramenta. Caso acesse o link sem logar, não poderá ver espaçamento, cores etc;
-- Você pode utilizar qualquer framework ou library que você preferir;
-- A sua página deve ser hospedada no [Github Pages](https://pages.github.com/) e o link deve ser enviado no e-mail;
-- Estruture os seus arquivos em uma pasta chamada **layout** e se possível crie um *README*.
-
-## Dúvidas
-Caso você tenha alguma dúvida sobre os exercícios ou o layout, você pode nos mandar um email e nós responderemos por lá.
-
-Boa sorte!
